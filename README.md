@@ -11,10 +11,10 @@ This project, HW3, is part of a series of assignments for CSE360, focusing on au
 - **Javadoc Documentation**: Professional-looking Javadoc output for the HW3 application.
 - located in /doc
 - **Screencast**: A video demonstrating the implementation, functionality, and results of the automated tests.
-- view here: 
+- view here: [https://drive.google.com/file/d/1Ohhzyi9eM99MAhALpA-3Pmz3cbOyuTIg/view?usp=sharing](url)
 
 **Additional Information**
-Screencast
+[Screencast]([https://github.com/prodbrandon/CSE360HW3](https://drive.google.com/file/d/1Ohhzyi9eM99MAhALpA-3Pmz3cbOyuTIg/view?usp=sharing))
 
 The screencast covers the following:
 
