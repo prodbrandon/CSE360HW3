@@ -14,7 +14,7 @@ This project, HW3, is part of a series of assignments for CSE360, focusing on au
 - view here: [https://drive.google.com/file/d/1Ohhzyi9eM99MAhALpA-3Pmz3cbOyuTIg/view?usp=sharing](url)
 
 **Additional Information**
-[Screencast]([https://github.com/prodbrandon/CSE360HW3](https://drive.google.com/file/d/1Ohhzyi9eM99MAhALpA-3Pmz3cbOyuTIg/view?usp=sharing))
+Screencast
 
 The screencast covers the following:
 
